@@ -1,0 +1,2 @@
+This is my project on Flood Detection and Avoidance.I have posted .py files and we can use them to implement using Thonny software.For this you must have Raspberry Pi Pico and ThingSpeak account inorder to post those real time values to the server.You wil get the values in the ThingSpeak server as soon as object is detected.The values are plotted in graph.
+Thank you for reading this!

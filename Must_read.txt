@@ -1,2 +1,0 @@
-This is my project on Flood Detection and Avoidance.I have posted .py files and we can use them to implement using thonny software.For this you have to have Raspberry Pi Pico and ThingSpeak account inorder to post those real time values to the server.
-Thank you for reading this!
